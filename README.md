@@ -7,3 +7,11 @@
 - Your project must be publically available and under source control (organizers need to be able to view your code repository) -  you can use GitHub, GitLab, Bitbucket, or any other code hosting service
 - Projects can not have been submitted to another event, including other hackathons this weekend.
 - [Code of Conduct](https://drive.google.com/file/d/1RH_TtRu6EOHSbOoiSj2h1Q4jswtVILzE/view)
+
+
+# References and Resources
+[Spotify Web API](https://developer.spotify.com/documentation/web-api/) 
+
+[Spotify Web API Atuhentication Tutorial](https://www.youtube.com/watch?v=1vR3m0HupGI) 
+
+[Ticket Master API](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/)
