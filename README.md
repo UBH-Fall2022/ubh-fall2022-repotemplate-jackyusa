@@ -8,6 +8,12 @@
 - Projects can not have been submitted to another event, including other hackathons this weekend.
 - [Code of Conduct](https://drive.google.com/file/d/1RH_TtRu6EOHSbOoiSj2h1Q4jswtVILzE/view)
 
+# Project Overview 
+
+# Project Code 
+
+# Project Features 
+
 
 # References and Resources
 [Spotify Web API](https://developer.spotify.com/documentation/web-api/) 
