@@ -31,3 +31,5 @@ Spotify Resources:
 Ticket Master Resources: 
 
 [Ticket Master API](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/)
+
+Discovery and Inventory API used
