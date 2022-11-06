@@ -2,7 +2,9 @@
 - Teams can consist of between 1 and 4 people.
 - To have your submission be considered for judging, you must submit a 2-5 minute video along with your project. Try to keep it as concise as possible!
 - The projects submitted for judging cannot have been started prior to the start of the hackathon. In other words, teams can plan their projects in great detail, but they cannot begin writing code until they arrive at the hackathon.
-- Additionally, we are partnering with MLH this year, which means that our hackers must follow their code of conduct which can be found here.
+- Additionally, we are partnering with MLH this year, which means that our hackers must follow their code of condu)
+
+ct which can be found here.
 - Any and all resources used must be open source and specified in either the project, or the project description.
 - Your project must be publically available and under source control (organizers need to be able to view your code repository) -  you can use GitHub, GitLab, Bitbucket, or any other code hosting service
 - Projects can not have been submitted to another event, including other hackathons this weekend.
@@ -16,8 +18,16 @@
 
 
 # References and Resources
+
+Spotify Resources: 
+
 [Spotify Web API](https://developer.spotify.com/documentation/web-api/) 
 
 [Spotify Web API Atuhentication Tutorial](https://www.youtube.com/watch?v=1vR3m0HupGI) 
+
+[Get User Profile Documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-users-profile)
+
+
+Ticket Master Resources: 
 
 [Ticket Master API](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/)
