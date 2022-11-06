@@ -100,6 +100,7 @@ html{
     position: absolute;
 }
 */
+
 /* MAIN PAGE */
 #mainPage{
     background: linear-gradient(0deg, wheat 0%, tan 35%, rgba(0,212,255,1) 100%);
@@ -147,7 +148,7 @@ html{
 }
 #userName{
     position: absolute;
-    top: 0;
+    top: -50%;
     left: 0;
     padding: 37px;
     font-size: 60px;

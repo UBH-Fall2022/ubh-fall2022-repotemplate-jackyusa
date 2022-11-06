@@ -48,6 +48,7 @@ function onPageLoad(){
     clientSecret = localStorage.getItem('client_secret');
     if(window.location.search.length > 0){
         handleRedirect(); 
+        tl.to(login, .3, {y: "-100"});
         tl.to(login, 1.5, {y: "1000"});
         tl.to(sliderLeft, 1, {x: "-100%"},"-=.5");
         tl.to(sliderRight, 1, {x: "100%"}, "-=1");
@@ -268,6 +269,7 @@ function handleProfileResponse(){
         var data = JSON.parse(this.responseText);
         console.log(data);
         userName.innerHTML = "Hiya " + data["display_name"] + "! 😊";
+        tl.to(userName, 1, {y:"470"},"-=.6");
     }else{
         console.log(this.responseText);
         alert(this.responseText);
