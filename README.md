@@ -23,7 +23,7 @@ Spotify Resources:
 
 [Spotify Web API](https://developer.spotify.com/documentation/web-api/) 
 
-[Spotify Web API Atuhentication Tutorial](https://www.youtube.com/watch?v=1vR3m0HupGI) 
+[Spotify Web API Atuhentication Tutorial Video](https://www.youtube.com/watch?v=1vR3m0HupGI) 
 
 [Get User Profile Documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-users-profile)
 
