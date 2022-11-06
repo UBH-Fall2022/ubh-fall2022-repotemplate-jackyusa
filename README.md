@@ -22,10 +22,10 @@ ct which can be found here.
 Spotify Resources: 
 
 [Spotify Web API](https://developer.spotify.com/documentation/web-api/) 
+* Documentation on how to use the Spotify Web API and all of its freatures
 
 [Spotify Web API Atuhentication Tutorial Video](https://www.youtube.com/watch?v=1vR3m0HupGI) 
-
-[Get User Profile Documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-users-profile)
+* Tutorial video that shows how to get started used the Spotift Web API
 
 
 Ticket Master Resources: 
