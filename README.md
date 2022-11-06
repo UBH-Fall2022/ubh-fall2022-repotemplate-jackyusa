@@ -10,11 +10,7 @@ ct which can be found here.
 - Projects can not have been submitted to another event, including other hackathons this weekend.
 - [Code of Conduct](https://drive.google.com/file/d/1RH_TtRu6EOHSbOoiSj2h1Q4jswtVILzE/view)
 
-# Project Overview 
-
 # Project Code 
-
-# Project Features 
 
 
 # References and Resources
@@ -26,10 +22,3 @@ Spotify Resources:
 
 [Spotify Web API Atuhentication Tutorial Video](https://www.youtube.com/watch?v=1vR3m0HupGI) 
 * Tutorial video that shows how to get started used the Spotift Web API
-
-
-Ticket Master Resources: 
-
-[Ticket Master API](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/)
-
-Discovery and Inventory Status API used
